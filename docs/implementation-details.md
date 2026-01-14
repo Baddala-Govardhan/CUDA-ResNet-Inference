@@ -1,7 +1,5 @@
 # CUDA ResNet Implementation
 
-[CUDAResNet](https://github.com/pamin1/CUDAResNet)
-
 ## Overview
 
 This past semester, I set out to implement a ResNet-18 Architecture using custom CUDA Kernels. This handled the full implementation stack, including image preprocessing, model parsing, device memory allocation, and the model implementation using CUDA kernels and launch functions.
